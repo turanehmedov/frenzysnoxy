@@ -5,7 +5,7 @@ Open Source Bot 
 
 Demo : [SongPlayRoBot](https://t.me/snoxy) 
 
-Bizi seçdiyiniz Üçün Tkür
+Bizi seÃ§diyiniz ÃœÃ§Ã¼n TkÃ¼r
 
 # Click Below Image to Deploy
 [![Deploy](https://telegra.ph/file/cb7b0aead06c96955323e.jpg)](https://heroku.com/deploy?template=https://github.com/turanehmedov/frenzysnoxy.git)
